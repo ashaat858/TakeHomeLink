@@ -1,0 +1,4 @@
+Reading from properties file;
+Apple-a fruit, a tech firm
+Table-an object, contains rows and column when used in context of computer
+Orange-a fruit
